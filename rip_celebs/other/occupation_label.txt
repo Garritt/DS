@@ -1,0 +1,173 @@
+#############################################################################
+#### Generic Classes are not indented, specific occupation is indented ######
+#############################################################################
+####### goals are to add Class and occupation columns to each example #######
+#############################################################################
+###################### key = occupation, VALUE = class ######################
+#############################################################################
+
+#############################################################################
+## known problems 
+##					-- president of university vs president politician
+##
+#############################################################################
+
+
+
+athlete
+	-athlete
+	-cricketer
+	-footballer
+	-football
+	-hockey
+	-baseball
+	-rugby
+	-boxer
+	-olympic
+	-cricket
+	-NFL
+	-NHL
+	-wrestler
+	-NBA
+	-snowboarder
+	-surfer
+	-squash
+	-lacrosse
+	-skier
+	-skateboarder
+musician
+	-musician
+	-singer
+	-rap 
+	-hip-hop
+	-vocalist
+	-bassist
+	-drummer
+	-songwriter
+	-violinist
+	-singer-guitarist
+	-guitarist
+	-keyboardist
+	-rapper
+	-composer
+	-bass
+	-harmonica
+	-singer-songwriter
+	-cellist
+activist
+	-activist
+military
+	-military
+	-commander
+	-soldier
+pilot
+	-pilot
+	-racing
+	-driver
+businessman
+	-businessman
+	-business
+	-CEO
+	-manufacturer
+	-entrepreneur
+magician
+	-magician
+coach
+	-coach
+lawyer
+	-lawyer
+	-attorney
+producer
+	-producer
+writer
+	-writer
+	-comedian
+	-author
+	-screenwriter
+	-journalist
+	-editor
+	-literature
+	-novelist
+	-poet
+	-columnist
+director
+	-director
+agent
+	-agent
+actor
+	-actor
+actress
+	-actress
+model
+	-model
+dancer
+	-dancer
+religious
+	-religious
+	-minister
+	-bishop
+	-archbishop
+	-priest
+educator
+	-educator
+	-MP
+	-professor
+	-chess
+	-Grandmaster
+	-scholar
+critic
+	-critic
+politician
+	-politician
+	-president
+	-senate
+	-commissioner
+	-mayor
+	-legislative
+	-diplomat
+	-ambassador
+	-justice
+	-chancellor
+	-congress
+	-judge
+	-govenor
+	-ambassador
+historian
+	-historian
+scientist
+	-scientist
+	-zoologist
+	-astrologer
+	-geochemist
+	-geologist
+engineer
+	-engineer
+	-engineering
+	-inventor
+	-astronaut
+designer
+	-designer
+laureate
+	-laureate
+cinematographer
+	-cinematographer
+	-filmmaker
+photographer
+	-photographer
+artist
+	-artist
+	-animator
+	-cartoonist
+	-illustrator
+criminal
+	-terrorist
+	-theif
+	-spy
+	-cult
+radio~television
+	-radio
+	-television
+	-broadcastor
+	-host
+	-anchor
+
