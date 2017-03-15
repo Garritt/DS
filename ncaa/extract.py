@@ -9,6 +9,7 @@ def extract(filename):
 
 	with open(filename, 'r') as data:
 		prev_line = None
+		home_courts = [] 
 		for i, line in enumerate(data):
 			if line.strip():
 				if line.startswith('#'):
@@ -30,11 +31,17 @@ def extract(filename):
 
 				# submit to teams 
 				if teams.get(team) is None:
+					
 					try:
+						home_court = max(set(home_courts), key=home_courts.count)
 						prev_team = prev_line.split(',')[16].strip()
 						teams[prev_team]['streak'] = prev_line.split(',')[14].strip()
+						teams[prev_team]['home_court'] = home_court
 					except:
-						pass				
+						pass			
+					del home_courts[:]
+					home_courts.append(data_l[15].strip())
+
 					teams[team] = {}
 					teams[team]['n_games'] = 1
 					teams[team]['games'] = {}
@@ -42,6 +49,7 @@ def extract(filename):
 						teams[team]['games'][opponent] = {}
 						
 				else:
+					home_courts.append(data_l[15].strip())
 					teams[team]['n_games'] += 1
 					if teams[team]['games'].get(opponent) is None:	
 						teams[team]['games'][opponent] = {}
@@ -52,6 +60,7 @@ def extract(filename):
 				teams[team]['games'][opponent][date]['scored'] = float(data_l[9].strip())
 				teams[team]['games'][opponent][date]['scored_against'] = float(data_l[10].strip())
 				teams[team]['games'][opponent][date]['game_n'] = float(data_l[0])
+				teams[team]['games'][opponent][date]['court'] = data_l[15].strip()
 				
 				prev_line = line
 
