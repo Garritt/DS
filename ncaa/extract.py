@@ -1,3 +1,6 @@
+
+## ERROR: MSM X2 IN DATASET
+
 import os
 from pprint import pprint
 
@@ -38,7 +41,8 @@ def extract(filename):
 						teams[prev_team]['streak'] = prev_line.split(',')[14].strip()
 						teams[prev_team]['home_court'] = home_court
 					except:
-						pass			
+						pass
+
 					del home_courts[:]
 					home_courts.append(data_l[15].strip())
 
@@ -61,7 +65,7 @@ def extract(filename):
 				teams[team]['games'][opponent][date]['scored_against'] = float(data_l[10].strip())
 				teams[team]['games'][opponent][date]['game_n'] = float(data_l[0])
 				teams[team]['games'][opponent][date]['court'] = data_l[15].strip()
-				
+				teams[team]['games'][opponent][date]['curr_streak'] = data_l[14].strip()
 				prev_line = line
 
 	return teams			

@@ -1,4 +1,4 @@
-# G,Date,Time,Network,Type,,Opponent,Conf,,Tm,Opp,OT,W,L,Streak,Arena,Team
+#G,Date,Time,Network,Type,,Opponent,Conf,,Tm,Opp,OT,W,L,Streak,Arena,Team
 
 1,Fri Nov 11 2016,6:30 pm/est,,REG,,Lafayette,Patriot,W,88,48,,1,0,W 1,The Pavilion,Villinova
 2,Mon Nov 14 2016,7:00 pm/est,,REG,@,Purdue (15),Big Ten,W,79,76,,2,0,W 2,Mackey Arena,Villinova
@@ -1639,38 +1639,38 @@
 33,Sat Mar 11 2017,3:30 pm/est,,CTOURN,N,Richmond,A-10,W,87,77,OT,26,7,W 3,CONSOL Enegery Center,Virginia Commonwealth
 34,Sun Mar 12 2017,12:30 pm/est,,CTOURN,N,Rhode Island,A-10,L,63,70,,26,8,L 1,CONSOL Enegery Center,Virginia Commonwealth
 
-1,Fri Nov 11 2016,11:00 pm/est,,REG,,Nevada,MWC,W,81,63,,1,0,W 1,McKeon Pavilion,Mount St. Mary's
-2,Wed Nov 16 2016,10:00 pm/est,,REG,,Prairie View,SWAC,W,110,72,,2,0,W 2,McKeon Pavilion,Mount St. Mary's
-3,Sat Nov 19 2016,2:00 pm/est,,REG,@,Dayton,A-10,W,61,57,,3,0,W 3,University of Dayton Arena,Mount St. Mary's
-4,Tue Nov 22 2016,10:00 pm/est,,REG,,San Jose State,MWC,W,81,64,,4,0,W 4,McKeon Pavilion,Mount St. Mary's
-5,Sun Nov 27 2016,5:00 pm/est,,REG,N,Alabama-Birmingham,CUSA,W,76,63,,5,0,W 5,Orleans Arena,Mount St. Mary's
-6,Wed Nov 30 2016,11:00 pm/est,,REG,@,Stanford,Pac-12,W,66,51,,6,0,W 6,Maples Pavilion,Mount St. Mary's
-7,Thu Dec 8 2016,10:00 pm/est,,REG,,Texas-Arlington,Sun Belt,L,51,65,,6,1,L 1,McKeon Pavilion,Mount St. Mary's
-8,Sun Dec 11 2016,8:00 pm/est,,REG,,UC-Irvine,Big West,W,84,53,,7,1,W 1,McKeon Pavilion,Mount St. Mary's
-9,Wed Dec 14 2016,10:00 pm/est,,REG,,Western Kentucky,CUSA,W,73,51,,8,1,W 2,McKeon Pavilion,Mount St. Mary's
-10,Tue Dec 20 2016,10:00 pm/est,,REG,,Texas A&M-Corpus Christi,Southland,W,67,46,,9,1,W 3,McKeon Pavilion,Mount St. Mary's
-11,Thu Dec 22 2016,10:00 pm/est,,REG,,South Carolina State,MEAC,W,74,47,,10,1,W 4,McKeon Pavilion,Mount St. Mary's
-12,Thu Dec 29 2016,11:00 pm/est,,REG,@,Loyola Marymount,WCC,W,72,60,,11,1,W 5,Albert Gersten Pavilion,Mount St. Mary's
-13,Sat Dec 31 2016,9:00 pm/est,,REG,,San Diego,WCC,W,72,60,,12,1,W 6,McKeon Pavilion,Mount St. Mary's
-14,Thu Jan 5 2017,11:00 pm/est,,REG,,Brigham Young,WCC,W,81,68,,13,1,W 7,McKeon Pavilion,Mount St. Mary's
-15,Sat Jan 7 2017,11:00 pm/est,,REG,@,San Francisco,WCC,W,63,52,,14,1,W 8,War Memorial Gymnasium,Mount St. Mary's
-16,Thu Jan 12 2017,11:00 pm/est,,REG,@,Portland,WCC,W,74,33,,15,1,W 9,Chiles Center,Mount St. Mary's
-17,Sat Jan 14 2017,10:00 pm/est,,REG,@,Gonzaga (5),WCC,L,56,79,,15,2,L 1,McCarthey Athletic Center,Mount St. Mary's
-18,Thu Jan 19 2017,11:00 pm/est,,REG,,Pacific,WCC,W,62,50,,16,2,W 1,McKeon Pavilion,Mount St. Mary's
-19,Sat Jan 21 2017,11:00 pm/est,,REG,,Pepperdine,WCC,W,85,65,,17,2,W 2,McKeon Pavilion,Mount St. Mary's
-20,Thu Jan 26 2017,11:00 pm/est,,REG,,San Francisco,WCC,W,66,46,,18,2,W 3,McKeon Pavilion,Mount St. Mary's
-21,Sat Jan 28 2017,11:00 pm/est,,REG,@,Santa Clara,WCC,W,72,59,,19,2,W 4,Leavey Center,Mount St. Mary's
-22,Thu Feb 2 2017,11:00 pm/est,,REG,@,Pacific,WCC,W,74,70,,20,2,W 5,A.G. Spanos Center,Mount St. Mary's
-23,Sat Feb 4 2017,7:00 pm/est,,REG,@,San Diego,WCC,W,71,27,,21,2,W 6,Jenny Craig Pavillion,Mount St. Mary's
-24,Thu Feb 9 2017,10:00 pm/est,,REG,,Portland,WCC,W,51,41,,22,2,W 7,McKeon Pavilion,Mount St. Mary's
-25,Sat Feb 11 2017,8:15 pm/est,,REG,,Gonzaga (1),WCC,L,64,74,,22,3,L 1,McKeon Pavilion,Mount St. Mary's
-26,Thu Feb 16 2017,11:00 pm/est,,REG,,Loyola Marymount,WCC,W,81,48,,23,3,W 1,McKeon Pavilion,Mount St. Mary's
-27,Sat Feb 18 2017,10:00 pm/est,,REG,@,Brigham Young,WCC,W,70,57,,24,3,W 2,Marriott Center,Mount St. Mary's
-28,Thu Feb 23 2017,10:00 pm/est,,REG,@,Pepperdine,WCC,W,78,49,,25,3,W 3,Firestone Fieldhouse,Mount St. Mary's
-29,Sat Feb 25 2017,10:00 pm/est,,REG,,Santa Clara,WCC,W,70,56,,26,3,W 4,McKeon Pavilion,Mount St. Mary's
-30,Sat Mar 4 2017,11:59 pm/est,,CTOURN,N,Portland,WCC,W,81,58,,27,3,W 5,Orleans Arena,Mount St. Mary's
-31,Mon Mar 6 2017,11:30 pm/est,,CTOURN,N,Brigham Young,WCC,W,81,50,,28,3,W 6,Orleans Arena,Mount St. Mary's
-32,Tue Mar 7 2017,9:00 pm/est,,CTOURN,N,Gonzaga (4),WCC,L,56,74,,28,4,L 1,Orleans Arena,Mount St. Mary's
+1,Fri Nov 11 2016,11:00 pm/est,,REG,,Nevada,MWC,W,81,63,,1,0,W 1,McKeon Pavilion,Saint Mary's (CA)
+2,Wed Nov 16 2016,10:00 pm/est,,REG,,Prairie View,SWAC,W,110,72,,2,0,W 2,McKeon Pavilion,Saint Mary's (CA)
+3,Sat Nov 19 2016,2:00 pm/est,,REG,@,Dayton,A-10,W,61,57,,3,0,W 3,University of Dayton Arena,Saint Mary's (CA)
+4,Tue Nov 22 2016,10:00 pm/est,,REG,,San Jose State,MWC,W,81,64,,4,0,W 4,McKeon Pavilion,Saint Mary's (CA)
+5,Sun Nov 27 2016,5:00 pm/est,,REG,N,Alabama-Birmingham,CUSA,W,76,63,,5,0,W 5,Orleans Arena,Saint Mary's (CA)
+6,Wed Nov 30 2016,11:00 pm/est,,REG,@,Stanford,Pac-12,W,66,51,,6,0,W 6,Maples Pavilion,Saint Mary's (CA)
+7,Thu Dec 8 2016,10:00 pm/est,,REG,,Texas-Arlington,Sun Belt,L,51,65,,6,1,L 1,McKeon Pavilion,Saint Mary's (CA)
+8,Sun Dec 11 2016,8:00 pm/est,,REG,,UC-Irvine,Big West,W,84,53,,7,1,W 1,McKeon Pavilion,Saint Mary's (CA)
+9,Wed Dec 14 2016,10:00 pm/est,,REG,,Western Kentucky,CUSA,W,73,51,,8,1,W 2,McKeon Pavilion,Saint Mary's (CA)
+10,Tue Dec 20 2016,10:00 pm/est,,REG,,Texas A&M-Corpus Christi,Southland,W,67,46,,9,1,W 3,McKeon Pavilion,Saint Mary's (CA)
+11,Thu Dec 22 2016,10:00 pm/est,,REG,,South Carolina State,MEAC,W,74,47,,10,1,W 4,McKeon Pavilion,Saint Mary's (CA)
+12,Thu Dec 29 2016,11:00 pm/est,,REG,@,Loyola Marymount,WCC,W,72,60,,11,1,W 5,Albert Gersten Pavilion,Saint Mary's (CA)
+13,Sat Dec 31 2016,9:00 pm/est,,REG,,San Diego,WCC,W,72,60,,12,1,W 6,McKeon Pavilion,Saint Mary's (CA)
+14,Thu Jan 5 2017,11:00 pm/est,,REG,,Brigham Young,WCC,W,81,68,,13,1,W 7,McKeon Pavilion,Saint Mary's (CA)
+15,Sat Jan 7 2017,11:00 pm/est,,REG,@,San Francisco,WCC,W,63,52,,14,1,W 8,War Memorial Gymnasium,Saint Mary's (CA)
+16,Thu Jan 12 2017,11:00 pm/est,,REG,@,Portland,WCC,W,74,33,,15,1,W 9,Chiles Center,Saint Mary's (CA)
+17,Sat Jan 14 2017,10:00 pm/est,,REG,@,Gonzaga (5),WCC,L,56,79,,15,2,L 1,McCarthey Athletic Center,Saint Mary's (CA)
+18,Thu Jan 19 2017,11:00 pm/est,,REG,,Pacific,WCC,W,62,50,,16,2,W 1,McKeon Pavilion,Saint Mary's (CA)
+19,Sat Jan 21 2017,11:00 pm/est,,REG,,Pepperdine,WCC,W,85,65,,17,2,W 2,McKeon Pavilion,Saint Mary's (CA)
+20,Thu Jan 26 2017,11:00 pm/est,,REG,,San Francisco,WCC,W,66,46,,18,2,W 3,McKeon Pavilion,Saint Mary's (CA)
+21,Sat Jan 28 2017,11:00 pm/est,,REG,@,Santa Clara,WCC,W,72,59,,19,2,W 4,Leavey Center,Saint Mary's (CA)
+22,Thu Feb 2 2017,11:00 pm/est,,REG,@,Pacific,WCC,W,74,70,,20,2,W 5,A.G. Spanos Center,Saint Mary's (CA)
+23,Sat Feb 4 2017,7:00 pm/est,,REG,@,San Diego,WCC,W,71,27,,21,2,W 6,Jenny Craig Pavillion,Saint Mary's (CA)
+24,Thu Feb 9 2017,10:00 pm/est,,REG,,Portland,WCC,W,51,41,,22,2,W 7,McKeon Pavilion,Saint Mary's (CA)
+25,Sat Feb 11 2017,8:15 pm/est,,REG,,Gonzaga (1),WCC,L,64,74,,22,3,L 1,McKeon Pavilion,Saint Mary's (CA)
+26,Thu Feb 16 2017,11:00 pm/est,,REG,,Loyola Marymount,WCC,W,81,48,,23,3,W 1,McKeon Pavilion,Saint Mary's (CA)
+27,Sat Feb 18 2017,10:00 pm/est,,REG,@,Brigham Young,WCC,W,70,57,,24,3,W 2,Marriott Center,Saint Mary's (CA)
+28,Thu Feb 23 2017,10:00 pm/est,,REG,@,Pepperdine,WCC,W,78,49,,25,3,W 3,Firestone Fieldhouse,Saint Mary's (CA)
+29,Sat Feb 25 2017,10:00 pm/est,,REG,,Santa Clara,WCC,W,70,56,,26,3,W 4,McKeon Pavilion,Saint Mary's (CA)
+30,Sat Mar 4 2017,11:59 pm/est,,CTOURN,N,Portland,WCC,W,81,58,,27,3,W 5,Orleans Arena,Saint Mary's (CA)
+31,Mon Mar 6 2017,11:30 pm/est,,CTOURN,N,Brigham Young,WCC,W,81,50,,28,3,W 6,Orleans Arena,Saint Mary's (CA)
+32,Tue Mar 7 2017,9:00 pm/est,,CTOURN,N,Gonzaga (4),WCC,L,56,74,,28,4,L 1,Orleans Arena,Saint Mary's (CA)
 
 1,Fri Nov 11 2016,7:00 pm/est,,REG,N,Michigan State (12),Big Ten,W,65,63,,1,0,W 1,Stan Sheriff Center,Arizona
 2,Tue Nov 15 2016,10:00 pm/est,,REG,,Cal State Bakersfield,WAC,W,78,66,,2,0,W 2,McKale Center,Arizona
