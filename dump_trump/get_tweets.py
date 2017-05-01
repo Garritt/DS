@@ -6,10 +6,10 @@ import json
 import tweepy
 import sys
 
-consumer_key = ""
-consumer_secret = ""
-access_key = ""
-access_secret = ""
+CONSUMER_KEY = '5kdwernp3J3Sf4zZGBfXPaym6'
+CONSUMER_SECRET = 's5UcGtDe0at4UT0issQMw4WNnAaflBgRXuFywPOIP4GUoaUx9v'
+ACCESS_KEY = '244624131-5xjNt6AZnfAYzYxapzQCuqkIe4lmzYmrxaQJUl6v'
+ACCESS_SECRET = 'kji5k5v9eYlGnsBJa3Rwum7P1rKhdH3IUNoH6uHIOiSEW'
 
 todays_tweets = {}
 
@@ -24,8 +24,8 @@ def get_tweets():
 	finished = True
 	todays_date = str(time.strftime("%Y-%m-%d"))
 
-	auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
-	auth.set_access_token(access_key, access_secret)
+	auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
+	auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
 	api = tweepy.API(auth)
 
 	# Scraping with Tweepy (assumes 
@@ -38,19 +38,21 @@ def get_tweets():
 			if todays_tweets.get(tweet_time) == None:
 				todays_tweets[tweet_time] = tweet.text
 
-	with open('tweet_db.json') as datafile:
-		data = json.load(datafile)
-	data[username][todays_date] = todays_tweets
-	with open('tweet_db.json', 'w') as datafile:
-		json.dump(data, datafile, indent = 2)
+	# with open('tweet_db.json') as datafile:
+	# 	data = json.load(datafile)
+	# data[username][todays_date] = todays_tweets
+	# with open('tweet_db.json', 'w') as datafile:
+	# 	json.dump(data, datafile, indent = 2)
 
 
 
-if __name__ == '__main__':
+get_tweets()
 
-	schedule.every(120).minutes.do(get_tweets)
-	while True:
-		schedule.run_pending()
-		# 2 hours
-		time.sleep(100) 
+# if __name__ == '__main__':
+
+# 	schedule.every(.1).minutes.do(get_tweets)
+# 	while True:
+# 		schedule.run_pending()
+# 		# 2 hours
+# 		time.sleep(100) 
 

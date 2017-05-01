@@ -27,9 +27,9 @@ class Round(object):
 			# print(num_g_a, num_g_b)
 			fv_a = fm.featVector(team_a, num_g_a)[1:10]
 			fv_b = fm.featVector(team_b, num_g_b)[1:10]
-
+			###########################
 			## BUILD FEATURE SCORE HERE
-			
+			###########################
 			fv = fv_b + fv_a
 			print(fv)
 			#fv_reverse = fv_a + fv_b

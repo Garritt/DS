@@ -10,10 +10,9 @@ class Bracket(object):
 	def __init__(self, rounds, datafile):
 		self.rounds = rounds
 		self.teams = extract.extract(datafile)
-		#pprint(self.teams)
 		# create log reg model for each team
 		self.fm = FeatureModel(self.teams)
-		self.model = self.fm.makeModel()
+		self.model = self.fm.makeModel()		# maybe make model every round?
 	
 	def fillBracket(self):
 		

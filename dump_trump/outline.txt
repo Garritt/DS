@@ -1,0 +1,28 @@
+class features
+	
+
+	pos_words{}
+	neg_words{}
+
+	__features__(tweet):
+
+		char_count
+		pos_word_score (intersection of tweet and pos_words / total words in tweet)
+		ned_word_score ...
+		favs
+		retweets
+		overlap_neg_score (highest sim score of overlap of this tweet and every negatively classified tweet) # these might not be the best features 
+		overlap_pos_score ...
+		ith_tweet_today
+		time_since_last_tweet
+
+class structs 
+
+	working on this now 
+
+
+class model 
+
+
+
+class parse_engine
